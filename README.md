@@ -1,5 +1,7 @@
 # vue_admine_ui
-
+```
+git clone https://github.com/Lenarakickaya/vue_admine_ui.git
+```
 ## Project setup
 ```
 npm install
